@@ -5,7 +5,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning _C++ primer plus_ _CSAPP_ _Computer organization_ 
+- 🌱 I’m currently learning 
+- _C++ primer plus_ 
+- _CSAPP_ 
+- _Computer Organization And Design_ 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+![](https://github-readme-stats.vercel.app/api?username=MarsyCantStopCoding)
 
