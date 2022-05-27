@@ -2,7 +2,7 @@
 ## I'm Marcy ZHANG
 #### I'm an undergraduate student of the [Computer Science and Engineering (CSE)](https://cse.sustech.edu.cn/) department in [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/) 
 
-Here are some ideas to get you started:
+More info about me:
 
 - 🔭 I’m currently working on my final project. 
 - -> CS207-pipeline-cpu 
