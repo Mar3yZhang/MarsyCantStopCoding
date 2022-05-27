@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## I'm Marcy ZHANG
+# I'm an undergraduate student of CSE department in Southern University of Science and Technology (SUSTech)
 
 Here are some ideas to get you started:
 
