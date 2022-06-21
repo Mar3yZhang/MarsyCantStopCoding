@@ -20,4 +20,4 @@ More info about me:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=MarsyCantStopCoding)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsyCantStopCoding)](https://github.com/Christmas/github-readme-stats)
