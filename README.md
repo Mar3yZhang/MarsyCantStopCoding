@@ -1,6 +1,6 @@
 - Hi there 👋
 
-  ## I'm Marcy ZHANG
+  ## I'm Marsy ZHANG
 
   #### I'm an undergraduate student of the
 
