@@ -11,5 +11,5 @@
   More info about me:
 
   - 📫 How to reach me: 
-  -  + 12010123@mail.sustech.edu.cn
-  -  + qi.zhang.7@stonybrook.edu.cn
+    + 12010123@mail.sustech.edu.cn
+    + qi.zhang.7@stonybrook.edu.cn
