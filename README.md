@@ -10,6 +10,6 @@
 
   More info about me:
 
-  - 📫 How to reach me: 12010123@mail.sustech.edu.cn
-    ![](https://github-readme-stats.vercel.app/api?username=MarsyCantStopCoding)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsyCantStopCoding&layout=compact)](https://github.com/Christmas/github-readme-stats)
+  - 📫 How to reach me: 
+  -  + 12010123@mail.sustech.edu.cn
+  -  + qi.zhang.7@stonybrook.edu.cn
