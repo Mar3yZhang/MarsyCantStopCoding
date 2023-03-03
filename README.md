@@ -1,6 +1,6 @@
 - Hi there 👋
 
-  ## I'm Qi Zhang
+  ## I'm Qi Zhang and you can call me Marsy
   
   #### Exchange [Stony Brook University](https://www.stonybrook.edu/),NY,USA
 
