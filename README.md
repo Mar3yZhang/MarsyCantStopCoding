@@ -1,12 +1,10 @@
 - Hi there 👋
 
-  ## I'm Marsy ZHANG
+  ## I'm Qi Zhang
+  
+  #### Exchange [Stony Brook University](https://www.stonybrook.edu/),NY,USA
 
-  #### I'm an undergraduate student of the
-
-  ####  [Computer Science and Engineering (CSE)](https://cse.sustech.edu.cn/) department in
-
-  ####  [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/) 
+  #### B.S. [SUSTech](https://www.sustech.edu.cn/),Shenzhen,China
 
   More info about me:
 
